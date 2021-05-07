@@ -1,0 +1,6 @@
+.gradle
+.idea
+/build/
+gradle
+
+LOG_DIRECTORY_IS_UNDEFINED

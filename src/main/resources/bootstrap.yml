@@ -1,0 +1,8 @@
+info:
+  app:
+    name: ${description}
+    version: ${version}
+    commit: ${commitInfo}
+spring:
+  application:
+    name: appgate
